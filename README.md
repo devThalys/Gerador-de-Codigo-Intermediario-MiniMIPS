@@ -22,5 +22,5 @@ O fluxo do tradutor simula as etapas iniciais de um compilador por meio de quatr
 
 ```text
 .
-- Analisador Projeto III.ipynb                 # Notebook principal com a implementação
-- relatorio-analisador.pdf                     # Relatório LaTeX do trabalho
+├── Analisador Projeto III.ipynb                 # Notebook principal com a implementação
+├── relatorio-analisador.pdf                     # Relatório LaTeX do trabalho
